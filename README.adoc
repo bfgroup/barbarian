@@ -1,0 +1,13 @@
+= Barbarian
+
+Welcome to Barbarian.. The open, decentralized, distributed, easy, build from source Conan package
+index. You can learn more about this service at the link:https://barbarian.bfgroup.xyz/[website].
+If you have questions or problems you can:
+
+* Post questions in the link:https://github.com/bfgroup/barbarian/discussions[discussion] section.
+* File bugs and requests in the link:https://github.com/bfgroup/barbarian/issues[issues] section.
+
+== License
+
+Distributed under the Boost Software License, Version 1.0. (See accompanying
+file link:LICENSE[LICENSE] or copy at http://www.boost.org/LICENSE_1_0.txt)
